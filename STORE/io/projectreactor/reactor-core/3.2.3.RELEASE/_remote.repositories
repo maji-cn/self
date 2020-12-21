@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Sep 01 17:28:47 CST 2020
+reactor-core-3.2.3.RELEASE-sources.jar>alimaven=
+reactor-core-3.2.3.RELEASE.pom>public=
+reactor-core-3.2.3.RELEASE.jar>alimaven=
+reactor-core-3.2.3.RELEASE.pom>alimaven=

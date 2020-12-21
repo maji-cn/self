@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 18 10:58:53 CST 2020
+file\://D\:\\yiwenjuanpz\\sbfjar\\repo/.error=
+http\://maven.jeewx.com/nexus/content/repositories/jeecg/.error=
+http\://maven.jeewx.com/nexus/content/repositories/jeecg/.lastUpdated=1598327496323
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact com.frame.core\:core_frame2v\:pom\:2.0 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: Transfer failed for http\://maven.aliyun.com/nexus/content/groups/public/com/frame/core/core_frame2v/2.0/core_frame2v-2.0.pom
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1605668333678
+file\://D\:\\yiwenjuanpz\\sbfjar\\repo/.lastUpdated=1598328132166

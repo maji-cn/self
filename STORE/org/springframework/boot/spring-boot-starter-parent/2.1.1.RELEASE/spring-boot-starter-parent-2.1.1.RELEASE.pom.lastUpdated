@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 25 15:35:11 CST 2020
+@default-aisino-dev-http\://192.168.101.55\:8081/repository/maven-public/.lastUpdated=1598340817169
+http\://192.168.101.55\:8081/repository/maven-public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.1.1.RELEASE from/to aisino-dev (http\://192.168.101.55\:8081/repository/maven-public/)\: Transfer failed for http\://192.168.101.55\:8081/repository/maven-public/org/springframework/boot/spring-boot-starter-parent/2.1.1.RELEASE/spring-boot-starter-parent-2.1.1.RELEASE.pom
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1598340911776
